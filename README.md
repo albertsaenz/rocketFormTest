@@ -2,6 +2,7 @@
  RocketFormChatTest
 
 Run ' npm i ' to install dependencies
+run 'npx react-native run-android' or 'npx react-native run-ios'
 
 Video preview https://youtu.be/e7jebgn4lqQ
 
